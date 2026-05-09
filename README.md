@@ -35,4 +35,4 @@ I am currently working through a structured cloud engineering curriculum to mast
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ammar0101&show_icons=true&theme=radical)
