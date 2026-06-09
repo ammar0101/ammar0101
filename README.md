@@ -14,8 +14,8 @@ I am a **Computer Science Honors student** specializing in **Cybersecurity**, cu
 I am currently working through a structured cloud engineering curriculum to master infrastructure and automation.
 
 - [x] **Phase 0: Starting from Zero** 
-- [ ] **Phase 1: Linux and Bash** (Current Focus: 8/31 steps)
-- [ ] **Phase 2: Networking Fundamentals**
+- [x] **Phase 1: Linux and Bash**
+- [ ] **Phase 2: Networking Fundamentals** (in progress)
 - [ ] **Phase 3: Programming Fundamentals**
 - [ ] **Phase 4: Cloud Platform Fundamentals**
 - [ ] **Phase 5: DevOps Fundamentals**
