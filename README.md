@@ -15,8 +15,8 @@ I am currently working through a structured cloud engineering curriculum to mast
 
 - [x] **Phase 0: Starting from Zero** 
 - [x] **Phase 1: Linux and Bash**
-- [ ] **Phase 2: Networking Fundamentals** (in progress)
-- [ ] **Phase 3: Programming Fundamentals**
+- [x] **Phase 2: Networking Fundamentals**
+- [ ] **Phase 3: Programming Fundamentals** (in progress)
 - [ ] **Phase 4: Cloud Platform Fundamentals**
 - [ ] **Phase 5: DevOps Fundamentals**
 - [ ] **Phase 6: Securing Your Cloud Applications**
